@@ -1,0 +1,38 @@
+Active-HDL 11.1.262.7351 2021-12-26 16:08:02
+
+Elaboration top modules:
+Architecture                  arch(testbenchMA)
+
+
+--------------------------------------------------------------------------------------------
+Entity      | Architecture | Library | Info | Compiler Version        | Compilation Options
+--------------------------------------------------------------------------------------------
+testbenchMA | arch         | project |      | 11.1.262.7351 (Windows) | -O3
+TestGen     | arch         | project |      | 11.1.262.7351 (Windows) | -O3
+Comp8bit    | stage2       | project |      | 11.1.262.7351 (Windows) | -O3
+resultana   | arch         | project |      | 11.1.262.7351 (Windows) | -O3
+and2        | arch         | project |      | 11.1.262.7351 (Windows) | -O3
+or2         | arch         | project |      | 11.1.262.7351 (Windows) | -O3
+inv         | arch         | project |      | 11.1.262.7351 (Windows) | -O3
+dff         | arch         | project |      | 11.1.262.7351 (Windows) | -O3
+comp1bit    | arch         | project |      | 11.1.262.7351 (Windows) | -O3
+xnor2       | arch         | project |      | 11.1.262.7351 (Windows) | -O3
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+VHDL Package               | Library | Info | Compiler Version        | Compilation Options
+--------------------------------------------------------------------------------------------
+standard                   | std     |      |                         | <unavailable>
+TEXTIO                     | std     |      |                         | <unavailable>
+std_logic_1164             | ieee    |      |                         | <unavailable>
+std_logic_arith            | ieee    |      |                         | <unavailable>
+STD_LOGIC_SIGNED           | ieee    |      |                         | <unavailable>
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+Library                    | Comment
+--------------------------------------------------------------------------------------------
+ieee                       | Standard IEEE packages library
+project                    | None
+std                        | Standard VHDL library
+--------------------------------------------------------------------------------------------
